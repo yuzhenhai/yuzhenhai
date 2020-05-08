@@ -271,18 +271,22 @@ a, a:hover, a:active, a:visited, a:link, a:focus {
 }
 .yuzh_fenlei ul{
   margin: 0 auto;
-  width: 50%;
+  width: 70%;
   height: 30px;
   line-height: 30px;
 }
 .yuzh_fenlei ul li{
 	display: block;
-	text-align: center;;
-    width: 19%;
+	text-align: center;
+    width: 20%;
     float: left;
     font-size: 16px;
     line-height: 28px;
     margin-top: 18px;
+   
+}
+.yuzh_fenlei ul li a{
+	text-align: center;
 }
 .yuzh_fenlei ul li:hover{
 	background: #ccc;
