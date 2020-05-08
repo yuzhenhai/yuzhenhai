@@ -151,8 +151,9 @@
 }
 
 #index .about {
-  width: 100%;
+  width: 80%;
   padding: 65px 0 60px;
+  margin: 0 auto;
 }
 
 #index .about .about-main {
@@ -221,7 +222,12 @@
 #index .product {
   width: 100%;
   padding: 50px 0 80px;
+  margin: 0 auto;
   background-color: #f7f7f7;
+}
+#index .product .prod-main{
+  width: 80%;
+  margin: 0 auto;
 }
 
 #index .product .swiper {
@@ -6312,5 +6318,41 @@
   .app-list .item:nth-child(2n+1) {
     margin-left: 0;
   }
+
+/*yuzh*/
+
+.yuzh_fenlei{
+  width: 100%;
+  height: 10px;
+  line-height: 10px;
+}
+.yuzh_fenlei ul{
+  margin: 0 auto;
+  width: 100%;
+  height: 10px;
+  line-height: 10px;
+}
+.yuzh_fenlei ul li{
+  display: block;
+  text-align: center;;
+  width: 20%;
+  float: left;
+  font-size: 8px;
+  line-height: 28px;
+  margin-top: 5px;
+  overflow: hidden;
+    height: 12px;
+  line-height: 12px;
+}
+.yuzh_fenlei ul li a{
+  color: #999;
+}
+.yuzh_fenlei ul li:hover{
+  background: #ccc;
+  color: #FFFFFF;
+  font-weight: 999;
+
+}
+
 }
 
