@@ -1325,14 +1325,15 @@
     position: absolute;
     width: 140px;
     max-height: 300px;
-    background-color: #0353b1;
+    background-color: #CCCCCC;
     top: 68px;
     right: 560px;
-    color: #FFF;
+    /*color: #FFF;*/
     font-weight: 900;
+    border-radius: 5px;
 }
 #yuzh_about a{
-  color: #FFF;
+  /*color: #FFF;*/
 
   width: 100%;
   position: relative;
@@ -1348,14 +1349,16 @@
 
 
 #yuzh_overview{
+      border-radius: 5px;
+
     display: none;
     position: absolute;
     width: 140px;
     max-height: 300px;
-    background-color: #0353b1;
+    background-color: #CCCCCC;
     top: 68px;
     right: 410px;
-    color: #FFF;
+    /*color: #FFF;*/
     font-weight: 900;
 }
 #yuzh_overview a{
@@ -1363,7 +1366,7 @@
   position: relative;
   float: left;
   text-align: center;
-      color: #FFF;
+      /*color: #FFF;*/
 
 }
 .yuzh_overview:hover +#yuzh_overview{
@@ -1376,18 +1379,19 @@
 }
 
 #yuzh_product{
+    border-radius: 5px;
     display: none;
     position: absolute;
     width: 150px;
     max-height: 300px;
-    background-color: #0353b1;
+    background-color: #CCCCCC;
     top: 68px;
     right: 260px;
-    color: #FFF;
+    /*color: #FFF;*/
     font-weight: 900;
 }
 #yuzh_product a{
-      color: #FFF;
+      /*color: #FFF;*/
 
   width: 100%;
   position: relative;
