@@ -1905,8 +1905,9 @@
 }
 
 #about .section1 .main .swiper .swiper-slide {
-  width: 23.85%;
+  width: 80%;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 #about .section1 .main .swiper .swiper-slide img {
@@ -2334,7 +2335,7 @@
 }
 
 #about .section4 .honor-list .item:nth-child(1) {
-  margin-left: 0;
+  /*margin-left: 0;*/
 }
 
 #about .section4 .pages {
