@@ -10,6 +10,7 @@
   width: 100%;
   height: 100px;
   background-color: #fff;
+   background: linear-gradient(#CCC, 20%, #EEE);
   position: fixed;
   top: 0;
   left: 0;
@@ -53,6 +54,7 @@
   font-size: 16px;
   line-height: 16px;
   white-space: nowrap;
+  
 }
 
 .header .main .nav a:hover,
@@ -1331,9 +1333,10 @@
     /*color: #FFF;*/
     font-weight: 900;
     border-radius: 5px;
+     background: linear-gradient(#0000FF, 20%, #3399FF);
 }
 #yuzh_about a{
-  /*color: #FFF;*/
+  color: #FFF;
 
   width: 100%;
   position: relative;
@@ -1358,15 +1361,16 @@
     background-color: #CCCCCC;
     top: 68px;
     right: 410px;
-    /*color: #FFF;*/
+    color: #FFF;
     font-weight: 900;
+    background: linear-gradient(#0000FF, 20%, #3399FF);
 }
 #yuzh_overview a{
   width: 100%;
   position: relative;
   float: left;
   text-align: center;
-      /*color: #FFF;*/
+    color: #FFF;
 
 }
 .yuzh_overview:hover +#yuzh_overview{
@@ -1387,11 +1391,12 @@
     background-color: #CCCCCC;
     top: 68px;
     right: 260px;
-    /*color: #FFF;*/
+    color: #FFF;
     font-weight: 900;
+    background: linear-gradient(#0000FF, 20%, #3399FF);
 }
 #yuzh_product a{
-      /*color: #FFF;*/
+      color: #FFF;
 
   width: 100%;
   position: relative;
