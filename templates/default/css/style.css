@@ -225,7 +225,7 @@
   padding: 50px 0 80px;
   margin: 0 auto;
   background-color: #f7f7f7;
-  background: linear-gradient(#EEE, 20%, #BBB);
+  /*background: linear-gradient(#EEE, 20%, #BBB);*/
 }
 #index .product .prod-main{
   width: 80%;
